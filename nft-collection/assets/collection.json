@@ -1,0 +1,15 @@
+{
+    "name": "Bonkkeepoooor collection",
+    "description": "Embrace the future. Embrace $BONK",
+    "image": "collection.jpg",
+    "symbol": "BONK",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }

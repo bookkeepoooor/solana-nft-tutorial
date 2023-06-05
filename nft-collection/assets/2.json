@@ -1,0 +1,20 @@
+{
+  "name": "Bonk 3",
+  "description": "Solana dog coin",
+  "image": "3.mp4",
+  "symbol": "BONK",
+  "attributes": [
+    {
+      "trait_type": "Bonk",
+      "value": "1466815020.64"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}
